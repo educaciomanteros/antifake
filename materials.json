@@ -1,0 +1,176 @@
+{
+  "ca": {
+    "file": "kit-antifake-ca.pdf",
+    "pages": 185,
+    "chapters": [
+      {
+        "chapter": 1,
+        "title": "Qui som i per què fem aquest Kit",
+        "file": "antifake-01.pdf",
+        "pages": 23,
+        "words": 976,
+        "source_md_sha256": "cd8498932795718ea93f829c303894e55666bd8d103fd920cc8a42e35f254073",
+        "source": "textos/ca/01.md",
+        "pdf_sha256": "e28e48fe202a2d37f507eaba7e5edcfc4f224961d6811981f7b08e926977757c"
+      },
+      {
+        "chapter": 2,
+        "title": "Com identificar els discursos d’odi i els relats racistes",
+        "file": "antifake-02.pdf",
+        "pages": 28,
+        "words": 1173,
+        "source_md_sha256": "aa835d8b8926ad61e253e7d90a8da4c4a6fba5884e7768d0e5578a5f34779746",
+        "source": "textos/ca/02.md",
+        "pdf_sha256": "d4a8a81dcf59643986653425cf1266f15ef2a148fdca169c2423c036ad2e5537"
+      },
+      {
+        "chapter": 3,
+        "title": "Com detectar un rumor fals",
+        "file": "antifake-03.pdf",
+        "pages": 38,
+        "words": 1392,
+        "source_md_sha256": "4e9a4c75c067ac46b65aa7f4e4216146e0e47983099e8657b9b7cebad1437b9b",
+        "source": "textos/ca/03.md",
+        "pdf_sha256": "716d55f76884613b7b23a5760048acf57750e396925c7b834ebc590d88023b35"
+      },
+      {
+        "chapter": 4,
+        "title": "Posem AntiFake en Pràctica",
+        "file": "antifake-04.pdf",
+        "pages": 9,
+        "words": 401,
+        "source_md_sha256": "82b5ec4f9a8db36884844db4dfd70fd7769ef601f7fb7275e319e6c77492b9d4",
+        "source": "textos/ca/04.md",
+        "pdf_sha256": "bcf3982dd2b7ca6516f3f387eab9c4731c997b9c72ffe490db41dbc955e65b81"
+      },
+      {
+        "chapter": 5,
+        "title": "Què puc fer davant del racisme i la discriminació?",
+        "file": "antifake-05.pdf",
+        "pages": 29,
+        "words": 1786,
+        "source_md_sha256": "82181491e3cb9927206627da92cd6289e59be9da6b7530668356b7ab4029a785",
+        "source": "textos/ca/05.md",
+        "pdf_sha256": "d507b90775d24aee7be5a67c72a8302d19c94f16498f6268298af2213112cb56"
+      },
+      {
+        "chapter": 6,
+        "title": "Quan les discriminacions es creuen",
+        "file": "antifake-06.pdf",
+        "pages": 10,
+        "words": 435,
+        "source_md_sha256": "8b781f5884321cb9690e9310eac0087d51d0c52d16d3718237ec1a0afba2b146",
+        "source": "textos/ca/06.md",
+        "pdf_sha256": "ed2fb1256aa068997b2e6c66058e7ff06e6b36a60e368d099b0b106b13065204"
+      },
+      {
+        "chapter": 7,
+        "title": "Glossari AntiFake",
+        "file": "antifake-07.pdf",
+        "pages": 25,
+        "words": 817,
+        "source_md_sha256": "652bf05f2eebf9dc04d430235746517ec545544e5eb42b75c00ac20f9cef87b1",
+        "source": "textos/ca/07.md",
+        "pdf_sha256": "28728825609f3a8601b96e1fc23f773e0009aebb9cd2d1cdcbb56013b9ea33e5"
+      },
+      {
+        "chapter": 8,
+        "title": "Recursos per verificar informació",
+        "file": "antifake-08.pdf",
+        "pages": 21,
+        "words": 748,
+        "source_md_sha256": "62186856c75b1ec88ed076e1d07ad14d12ea2d6cfeae3da320e1035c2e34decb",
+        "source": "textos/ca/08.md",
+        "pdf_sha256": "da7f2f1fcb17b9470f79e6ae1fc4361791c9676dca1f0a8ae1859f5732a6a3eb"
+      }
+    ],
+    "pdf_sha256": "3be7a24fdd16aee61d2110827368ea163804ca10110f861b023ffe2bc285b235"
+  },
+  "en": {
+    "file": "kit-antifake-en.pdf",
+    "pages": 188,
+    "chapters": [
+      {
+        "chapter": 1,
+        "title": "Who we are and why we created this toolkit",
+        "file": "en/antifake-01.pdf",
+        "pages": 22,
+        "words": 966,
+        "source_md_sha256": "ee8ba0d56faad54fc442c44ee0c1fbf7a0627ba540cfcaa2a2206effa54bcfea",
+        "source": "textos/en/01.md",
+        "pdf_sha256": "08d115b9ea33c7a30eb681271566832bd45f93cf79c5603c0c1d3c08b301e433"
+      },
+      {
+        "chapter": 2,
+        "title": "How to identify hate speech and racist narratives",
+        "file": "en/antifake-02.pdf",
+        "pages": 29,
+        "words": 1257,
+        "source_md_sha256": "972c289dab8dbbc7c56213a046663a9ac7269d88631495ddc93598a3ce0e79a5",
+        "source": "textos/en/02.md",
+        "pdf_sha256": "cdb467cb79c908b17e1374fdf5a9e2b6912ee966760ab8554a781675c73daec8"
+      },
+      {
+        "chapter": 3,
+        "title": "How to detect false or misleading information",
+        "file": "en/antifake-03.pdf",
+        "pages": 36,
+        "words": 1474,
+        "source_md_sha256": "9bf74473ab920dac4706c27d19e83ea3f4b67f5c4d2546f1334370dd05a136cb",
+        "source": "textos/en/03.md",
+        "pdf_sha256": "d51e9673b72da698bcb1cf98d81e0c65b305f3964c19cfce1bfe6929ec09bd48"
+      },
+      {
+        "chapter": 4,
+        "title": "Putting AntiFake into practice",
+        "file": "en/antifake-04.pdf",
+        "pages": 10,
+        "words": 466,
+        "source_md_sha256": "d3c6cf485e2e5663ebb77b15f8c8c6b0c3fbd7e3b51fe9ad2c10592c04d25c34",
+        "source": "textos/en/04.md",
+        "pdf_sha256": "64b5c497915e073fcd49b6bee4bd7be2144e6ab22e6eccdf727e8df56cca8c21"
+      },
+      {
+        "chapter": 5,
+        "title": "What can I do about racism and discrimination?",
+        "file": "en/antifake-05.pdf",
+        "pages": 35,
+        "words": 1620,
+        "source_md_sha256": "15e60ec9b810ca032bc0757e4114e5649c9bfddca7475f54afd064ee8ce1ea29",
+        "source": "textos/en/05.md",
+        "pdf_sha256": "20fc8e8c3eec0308f63bd20bb2e39ddd4046915e3c2f54cfdc7bddbbbdf5d4bb"
+      },
+      {
+        "chapter": 6,
+        "title": "When forms of discrimination intersect",
+        "file": "en/antifake-06.pdf",
+        "pages": 10,
+        "words": 433,
+        "source_md_sha256": "77b56927a6f07cbb85e5593a79674fc6c197a5e59db3f25ed9b0626e96b43fd6",
+        "source": "textos/en/06.md",
+        "pdf_sha256": "225e6d4a421ceb88b0a7f8a389433b35922f6cc68155a18d9be7596c28f0bbb2"
+      },
+      {
+        "chapter": 7,
+        "title": "AntiFake glossary",
+        "file": "en/antifake-07.pdf",
+        "pages": 24,
+        "words": 800,
+        "source_md_sha256": "32c8aa623c61c8eb9a8c2aaef77f6e0f497d75e11b04ffe08595de0240032fe4",
+        "source": "textos/en/07.md",
+        "pdf_sha256": "b61e0bf7d11d7a4e0bff9de6e2bbbf8c0dea7d4cdeb67707a020fda4ed66998e"
+      },
+      {
+        "chapter": 8,
+        "title": "Resources for verifying information",
+        "file": "en/antifake-08.pdf",
+        "pages": 20,
+        "words": 816,
+        "source_md_sha256": "f902d821a246672f8f16eae8e63f78931a80deea1813b3d43c50d61c60d7a8f6",
+        "source": "textos/en/08.md",
+        "pdf_sha256": "2134cac6aa3f47b4421aaec8f6204a4c73c3f952be9e44d0fe793ca6fe046fbb"
+      }
+    ],
+    "pdf_sha256": "e0a2635067f0805083a0bbd291f48b19ef7332a8c93bfab4151707ffea072bcb"
+  }
+}
