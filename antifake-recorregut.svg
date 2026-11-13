@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="1260" viewBox="0 0 1200 1260" role="img" aria-labelledby="title desc">
+<title id="title">El teu recorregut pel Kit AntiFake</title>
+<desc id="desc">Comença amb la història de Top Manta; mira els relats i les discriminacions; contrasta fonts i context; posa-ho en pràctica i busca suport. Els vuit capítols s’organitzen en quatre moments, amb cinc passos comuns: para, mira, comprova, pensa i actua.</desc>
+<rect width="1200" height="1260" fill="#141414"/>
+<rect x="70" y="66" width="66" height="10" fill="#DDF525"/>
+<text x="158" y="83" fill="#F4F0E8" font-size="24" font-weight="700" font-family="Arial,sans-serif">TOP MANTA / ANTIFAKE</text>
+<text x="70" y="172" fill="#F4F0E8" font-size="64" font-weight="700" font-family="Arial,sans-serif">El teu recorregut</text>
+<text x="70" y="246" fill="#F4F0E8" font-size="64" font-weight="700" font-family="Arial,sans-serif">pel kit</text>
+<text x="70" y="315" fill="#DDF525" font-size="28" font-weight="700" font-family="Arial,sans-serif">PARA · MIRA · COMPROVA · PENSA · ACTUA</text>
+<path d="M110 400V1040" fill="none" stroke="#DDF525" stroke-width="3"/>
+<circle cx="110" cy="418" r="39" fill="#DDF525"/>
+<text x="88" y="430" fill="#141414" font-size="31" font-weight="700" font-family="Arial,sans-serif">01</text>
+<text x="178" y="423" fill="#F4F0E8" font-size="38" font-weight="700" font-family="Arial,sans-serif">Comença per les persones</text>
+<text x="178" y="475" fill="#B9BBB2" font-size="25" font-weight="400" font-family="Arial,sans-serif">D’on parla Top Manta i per què neix AntiFake.</text>
+<text x="178" y="526" fill="#DDF525" font-size="24" font-weight="400" font-family="Arial,sans-serif">Capítol 01 · Història i veu pròpia</text>
+<circle cx="110" cy="612" r="39" fill="#DDF525"/>
+<text x="88" y="624" fill="#141414" font-size="31" font-weight="700" font-family="Arial,sans-serif">02</text>
+<text x="178" y="617" fill="#F4F0E8" font-size="38" font-weight="700" font-family="Arial,sans-serif">Mira quin relat es construeix</text>
+<text x="178" y="669" fill="#B9BBB2" font-size="25" font-weight="400" font-family="Arial,sans-serif">Detecta prejudicis, generalitzacions i veus absents.</text>
+<text x="178" y="720" fill="#DDF525" font-size="24" font-weight="400" font-family="Arial,sans-serif">02 · Relats racistes / 06 · Interseccionalitat</text>
+<text x="178" y="754" fill="#DDF525" font-size="24" font-weight="400" font-family="Arial,sans-serif">07 · Glossari</text>
+<circle cx="110" cy="806" r="39" fill="#DDF525"/>
+<text x="88" y="818" fill="#141414" font-size="31" font-weight="700" font-family="Arial,sans-serif">03</text>
+<text x="178" y="811" fill="#F4F0E8" font-size="38" font-weight="700" font-family="Arial,sans-serif">Contrasta abans de creure</text>
+<text x="178" y="863" fill="#B9BBB2" font-size="25" font-weight="400" font-family="Arial,sans-serif">Revisa l’origen, la data, les dades i el context.</text>
+<text x="178" y="914" fill="#DDF525" font-size="24" font-weight="400" font-family="Arial,sans-serif">03 · Verificació / 08 · Recursos i fonts</text>
+<circle cx="110" cy="1000" r="39" fill="#DDF525"/>
+<text x="88" y="1012" fill="#141414" font-size="31" font-weight="700" font-family="Arial,sans-serif">04</text>
+<text x="178" y="1005" fill="#F4F0E8" font-size="38" font-weight="700" font-family="Arial,sans-serif">Practica i actua amb criteri</text>
+<text x="178" y="1057" fill="#B9BBB2" font-size="25" font-weight="400" font-family="Arial,sans-serif">Investiga un missatge. Si hi ha discriminació, busca suport.</text>
+<text x="178" y="1108" fill="#DDF525" font-size="24" font-weight="400" font-family="Arial,sans-serif">04 · Pràctica / 05 · Actuació i acompanyament</text>
+<path d="M70 1160H1130" stroke="#DDF525" stroke-width="2"/>
+<text x="70" y="1207" fill="#F4F0E8" font-size="25" font-weight="400" font-family="Arial,sans-serif">No cal seguir un ordre únic: torna al pas que necessitis.</text>
+</svg>
